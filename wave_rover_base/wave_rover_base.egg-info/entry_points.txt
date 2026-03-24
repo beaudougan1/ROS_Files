@@ -1,0 +1,2 @@
+[console_scripts]
+base_node = wave_rover_base.base_node:main

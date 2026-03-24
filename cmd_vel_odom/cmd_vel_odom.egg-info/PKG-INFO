@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: cmd-vel-odom
+Version: 0.0.0
+Summary: Simple cmd_vel -> odom integrator for testing
+Maintainer: ubuntu
+Maintainer-email: ubuntu@localhost
+License: Apache-2.0

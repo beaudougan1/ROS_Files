@@ -1,0 +1,2 @@
+[console_scripts]
+odom_node = cmd_vel_odom.odom_node:main
